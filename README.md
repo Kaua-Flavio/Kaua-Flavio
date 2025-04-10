@@ -6,8 +6,10 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge(https://www.linkedin.com/in/kaua-flavio-bb6531359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge(https://www.instagram.com/_kauaflavio?igsh=YzhmaTUxZzkzeXU5)" height="25" alt="instagram logo"  />
+
+ <a href="https://www.instagram.com/_kauaflavio?igsh=YzhmaTUxZzkzeXU5">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+ </a>
 </div>
 
 ###
