@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- :pushpin:Brasileiro, 21 anos, Pai de família... <br>- 📚 I'm currently learning Frontend...<br>- ⚡ In my free time I fico com minha esposa e meu filho ...</p>
+<p align="left">- :pushpin:Brasileiro, 21 anos, Pai de família... <br>- 📚 Estou estudando Frontend...<br>- ⚡ No meu tempo livre eu fico com minha esposa e meu filho ...</p>
 
 ###
 
