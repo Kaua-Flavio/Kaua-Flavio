@@ -1,28 +1,24 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<div>
+   <h1 align="center">Olá!👋 me chamo kauã Flávio, mas pode me chamar de Ferreira</h1>
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
-###
 
 <div align="center">
 
+<a href="https://wa.me/qr/JXVM64Y5NGMXK1">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
  <a href="https://www.instagram.com/_kauaflavio?igsh=YzhmaTUxZzkzeXU5">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaua-Flavio.Kaua-Flavio&left_color=black&right_color=red"  />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
-
-###
-
-<h1 align="center">Olá!👋 me chamo kauã Flávio, mas pode me chamar de Ferreira</h1>
-
-###
 
 <h3 align="left">👩‍💻 Sobre mim </h3>
 
@@ -53,27 +49,9 @@
 
  ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img 
-        padding: none;
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      /td>
-    </table>
-
+[![card](https://github-readme-stats.vercel.app/api?username=Kaua-Flavio&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaua-Flavio](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Flavio&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
  
 
 
