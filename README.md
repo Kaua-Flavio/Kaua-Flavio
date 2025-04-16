@@ -24,7 +24,18 @@
 
 ###
 
-<p align="left">- :pushpin:Brasileiro, 21 anos, Pai de família... <br>- 📚 Estou estudando Frontend...<br>- ⚡ No meu tempo livre eu fico com minha esposa e meu filho ...</p>
+<p align="left">- :pushpin:Brasileiro, 21 anos, Pai de família... 
+   <br>- 
+   📚 Estou estudando Frontend...
+   <br>- 
+   :page_facing_up:certificados: <a href="https://github.com/user-attachments/assets/ec5ff6cc-5054-4b99-a320-edbef24acb19" target=_blank> Projeto DBZ </a>
+   &nbsp;|&nbsp;
+  <a href="https://github.com/user-attachments/files/19783560/Certificado.pdf" target=_blank> Excel Básico </a>
+   <br>-
+   ✏️ Espanhol Intermediário
+<br> -
+ ⚡ No meu tempo livre eu fico com minha esposa e meu filho...
+ </p>
 
 ###
 
